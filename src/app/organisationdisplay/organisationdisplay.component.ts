@@ -62,7 +62,9 @@ this._router.navigate(["/editorganisation",item.org_name]);
 
     this.arr = this.arr.filter(x => x.org_name.indexOf(value) != -1);
 
+
   }
+
 
   }
 
